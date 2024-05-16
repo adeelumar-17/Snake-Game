@@ -8,7 +8,7 @@ After downloading DOSBox, just run the installer and follow on-screen instructio
 Download the nasm-2.16.03-dos.zip file, unzip it then copy the folder to root of any partition preferably in C:\.
 ## Installation
 Clone this repository using the following command:<br>
-```git clone https://github.com/adeelumar-17/Snake-Game.git```<br>
+`git clone https://github.com/adeelumar-17/Snake-Game.git`<br>
 To run the above command you should have git installed.<br>
 Now copy the snake.asm file from the cloned repository to nasm folder that you had copied to partition of your choice.
 
@@ -16,16 +16,16 @@ Now copy the snake.asm file from the cloned repository to nasm folder that you h
 RUN DOSBox.<br>
 Mount the nasm folder.<br>
 Syntax: mount DRIVE_LETTER: <path_to_nasm><br>
-``` mount C: C:\nasm ```<br>
+` mount C: C:\nasm `<br>
 Now switch to the DRIVE_LETTER you chose, in this case "C".<br>
-``` C: ```<br>
+` C: `<br>
 Generate raw binary file using following command:<br>
-``` nasm snake.asm -o snake.com ```<br>
+` nasm snake.asm -o snake.com `<br>
 
 Run the binary file<br>
-``` snake ```
+` snake `
 ## Controls
-Use arrow keys to move.
+Use arrow keys to move.<br>
 Avoid obstacles to survive.
 
 ## 🌟 Why learn Assembly Language? ##
