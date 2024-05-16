@@ -1,11 +1,17 @@
 # Snake-Game
 Snake game using 8086(x86-16) assembly language
+## Introduction to 8086 Assembly Language
+
+8086 Assembly Language is the low-level programming language used to write programs for the Intel 8086 microprocessor. It is a type of assembly language specific to the Intel x86 architecture, which was widely used in personal computers during the 1980s and early 1990s.
+
+Assembly language programs for the 8086 processor consist of instructions that directly manipulate the CPU registers, memory, and other hardware components. Each register is of 2 bytes(16-bit) and each assembly language instruction corresponds to one machine language instruction, making it a close representation of the underlying hardware.
+If you want to learn assembly language programming, 8086 is an easier option due to its simplicity as compared to modern x64 architecture assembly.
 ## Requirements
 To play this game you need to have following installed on your system:<br>
 1.[DOSBox](https://www.dosbox.com/download.php?main=1)<br>
 After downloading DOSBox, just run the installer and follow on-screen instructions.<br>
 2.[NASM](https://www.nasm.us/pub/nasm/releasebuilds/2.16.03/dos/)<br>
-Download the nasm-2.16.03-dos.zip file, unzip it then copy the folder to root of any partition preferably in C:\.
+Download the nasm-2.16.03-dos.zip file, unzip it then copy the folder to root of any partition preferably in "C:\".
 ## Installation
 Clone this repository using the following command:<br>
 `git clone https://github.com/adeelumar-17/Snake-Game.git`<br>
