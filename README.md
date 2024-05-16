@@ -34,7 +34,7 @@ Run the binary file<br>
 Use arrow keys to move.<br>
 Avoid obstacles to survive.
 
-## 🌟 Why learn Assembly Language? ##
+## 🌟 Why learn Assembly Language?
 
 Welcome to the realm of assembly language, where the raw power of computing meets elegant simplicity. In a world dominated by high-level languages, you might wonder: Why bother with assembly?
 
@@ -51,7 +51,7 @@ Here's why:
 - **Nostalgia and Craftsmanship**: There's an undeniable charm in crafting code at the bare metal level, reminiscent of a bygone era when programmers wielded absolute control over their machines. Writing assembly is as much an art form as it is a technical skill.
 
 So, why assembly? Because it's not just a language; it's a journey into the heart of computing itself, where every instruction tells a story of power, efficiency, and elegance.
-## 🐍 Contribute to Our 8086 Assembly Snake Game! 🐍 ##
+## 🐍 Contribute to Our 8086 Assembly Snake Game! 🐍
 **🛠️ How to Contribute:**
 - **Bug Fixes:** Spot a bug? Feel free to squash it and submit a pull request.
 - **Enhancements:** Have ideas for new features or improvements? We'd love to hear them!
